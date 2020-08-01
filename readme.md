@@ -35,7 +35,7 @@ GitHub fold extension folds GitHub repo files by default.
 
 <br>
 
-[![GitHub Fold extension](https://github.com/ahmadawais/github-fold/raw/master/.github/github-fold-small.gif)][s]
+[![GitHub Fold extension](https://github.com/ahmadawais/github-fold/raw/master/.github/github-fold-small.gif)][y]
 
 <br>
 
@@ -99,12 +99,10 @@ without wasting a 1,000 hours][n] →</p>
 
 [![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=488640&style=flat)][n]
 
-[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=github-fold
-
 [![Awais on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)
 
+[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=github-fold
 [s]: https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=github-fold
-
 [c]: https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife
-
 [v]: https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=github-fold
+[y]: https://www.youtube.com/watch?v=C4SWkZZ5Zws
