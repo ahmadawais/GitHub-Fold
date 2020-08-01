@@ -5,9 +5,9 @@
     <br>
     <br>
 
-**GitHub fold extension** folds GitHub repo files by default.
+GitHub fold extension folds GitHub repo files by default.
 
-[![Shades of Purple Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=2D2B55&colorB=4627E6&style=flat)][c] [![Shades of Purple](https://img.shields.io/badge/-ShadesOfPurple.pro-gray.svg?colorB=4627E6&style=flat)][s] [![VSCode](https://img.shields.io/badge/-VSCode.pro-gray.svg?colorB=4627E6&style=flat)][v] [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=4627E6&style=flat)][n] [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=4627E6&colorB=4627E6&style=flat)](https://twitter.com/mrahmadawais/)
+[![Shades of Purple Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=2D2B55&colorB=4627E6&style=flat)][c] [![VSCode](https://img.shields.io/badge/-VSCode.pro-gray.svg?colorB=4627E6&style=flat)][v] [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=4627E6&style=flat)][n] [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=4627E6&colorB=4627E6&style=flat)](https://twitter.com/mrahmadawais/)
 
 </h4>
 
@@ -15,8 +15,8 @@
 
 # GitHub Fold
 
-- 📁 Fold GitHub repo files by default
-- 🗃️ Click to Fold & Unfold GitHub repo files
+- 🗃️ Fold GitHub repo files by default
+- 🎭 Click to Fold & Unfold GitHub repo files
 - ⌨️ Set a Chrome extension keyboard shortcut to toggle
 
 <br>
