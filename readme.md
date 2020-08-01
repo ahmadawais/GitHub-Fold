@@ -35,7 +35,7 @@ GitHub fold extension folds GitHub repo files by default.
 
 <br>
 
-[![Shades of Purple for Google Chrome](https://github.com/ahmadawais/github-fold/raw/master/.github/shades-of-purple-chrome.jpg)][s]
+[![GitHub Fold extension](https://github.com/ahmadawais/github-fold/raw/master/.github/github-fold-small.gif)][s]
 
 <br>
 
