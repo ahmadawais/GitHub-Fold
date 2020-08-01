@@ -1,0 +1,24 @@
+{
+  "name": "github-fold",
+  "description": "Fold GitHub repo files by default. Set extension shortcut to toggle fold/unfold with ease",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "ahmadawais/github-fold",
+  "author": {
+    "name": "Ahmad Awais",
+    "email": "me@AhmadAwais.com",
+    "url": "https://twitter.com/MrAhmadAwais"
+  },
+  "keywords": [
+    "GitHub fold",
+    "GitHub"
+  ],
+  "scripts": {
+    "format": "prettier --write \"./**/*.{js,json}\"",
+    "prezip": "find . -name '*.pak' -type f -delete >/dev/null 2>&1 && find . -name '*.zip' -type f -delete >/dev/null 2>&1",
+    "zip": "cd ./extension/github-fold/ && zip -r ./../github-fold.zip . -x '.*' -x '__MACOSX' -x 'Cached Theme.pak' >/dev/null 2>&1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
