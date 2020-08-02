@@ -1,7 +1,7 @@
 {
 	"name": "github-fold",
 	"description": "Fold GitHub repo files by default. Set extension shortcut to toggle fold/unfold with ease",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "ahmadawais/github-fold",
 	"author": {
