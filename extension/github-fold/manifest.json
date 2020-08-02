@@ -1,13 +1,15 @@
 {
 	"name": "GitHub Fold",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"manifest_version": 2,
 	"description": "Fold GitHub repo files by default. Set extension shortcut to toggle fold/unfold with ease",
 	"homepage_url": "https://twitter.com/mrahmadawais/",
 	"icons": {
-		"48": "icons/github-fold@1x.png",
-		"96": "icons/github-fold@2x.png",
-		"144": "icons/github-fold@3x.png"
+		"16": "icon/github-fold@16.png",
+		"48": "icon/github-fold@48.png",
+		"96": "icon/github-fold@96.png",
+		"128": "icon/github-fold@128.png",
+		"144": "icon/github-fold@144.png"
 	},
 	"background": {
 		"scripts": ["background.js"],
