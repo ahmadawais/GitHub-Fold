@@ -1,6 +1,6 @@
 {
 	"name": "GitHub Fold",
-	"version": "1.0.1",
+	"version": "1.2.0",
 	"manifest_version": 2,
 	"description": "Fold GitHub repo files by default. Set extension shortcut to toggle fold/unfold with ease",
 	"homepage_url": "https://twitter.com/mrahmadawais/",
