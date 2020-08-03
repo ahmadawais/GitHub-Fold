@@ -9,7 +9,8 @@
 		"48": "icon/github-fold@48.png",
 		"96": "icon/github-fold@96.png",
 		"128": "icon/github-fold@128.png",
-		"144": "icon/github-fold@144.png"
+		"144": "icon/github-fold@144.png",
+		"256": "icon/github-fold@256.png"
 	},
 	"background": {
 		"scripts": ["background.js"],
