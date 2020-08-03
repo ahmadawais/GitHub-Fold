@@ -39,6 +39,23 @@ GitHub fold extension folds GitHub repo files by default.
 
 <br>
 
+[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
+
+## Usage
+
+- GitHub fold extension will fold all repo files by default
+- To unfold the files, you can click the default unfold button
+- Clicking the GitHub fold extension will toggle (fold/unfold) files
+
+### SETUP SHORTCUT
+
+I recommend setting up a keyboard shortcut to toggle (fold/unfold) files.
+
+- Go to `chrome://extensions/shortcuts`
+- Search for the GitHub Fold extension and set a shortcut
+
+<br>
+
 [![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
 
 ## Changelog
