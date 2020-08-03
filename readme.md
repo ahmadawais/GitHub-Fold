@@ -101,8 +101,8 @@ without wasting a 1,000 hours][n] →</p>
 
 [![Awais on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)
 
+[c]: https://chrome.google.com/webstore/detail/bbeeaoehlegmlejbohjeodfjnmnnbnod
 [n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=github-fold
 [s]: https://ShadesOfPurple.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=github-fold
-[c]: https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife
 [v]: https://vscode.pro/?utm_source=FOSS&utm_medium=FOSS&utm_campaign=github-fold
 [y]: https://www.youtube.com/watch?v=C4SWkZZ5Zws
